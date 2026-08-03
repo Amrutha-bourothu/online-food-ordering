@@ -1,0 +1,8 @@
+1,Chicken Biryani,250
+2,Veg Biryani,180
+3,Fried Rice,150
+4,Noodles,120
+5,Burger,100
+6,Pizza,250
+7,Coke,40
+8,Ice Cream,80
